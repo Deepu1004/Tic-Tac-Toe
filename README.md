@@ -13,7 +13,7 @@ This is a sleek and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaS
 
 1. **Save the Files:**
    - Save the provided HTML file (`index.html`) and the CSS file (`style.css`) in the same directory.
-   - Create a JavaScript file named `game.js` and copy the game logic code into it.
+   - Create a JavaScript file named `script.js` and copy the game logic code into it.
 
 2. **Open the Game:**
    - Open `index.html` in your web browser to launch the Tic-Tac-Toe game.
@@ -31,7 +31,7 @@ This is a sleek and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaS
 **Customization (Optional):**
 
 - You can customize the game's appearance by editing the CSS styles in `style.css`.
-- Feel free to explore the JavaScript code (`game.js`) to understand the game logic and potentially add new features.
+- Feel free to explore the JavaScript code (`script.js`) to understand the game logic and potentially add new features.
 
 **Let the Games Begin!**
 
